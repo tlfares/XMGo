@@ -1,0 +1,31 @@
+# macOS
+.DS_Store
+header.PNG
+header.jpg
+
+# Xcode user-specific state
+xcuserdata/
+project.xcworkspace/xcuserdata/
+*.xcuserstate
+
+# Build products
+DerivedData/
+build/
+Release/
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# Swift Package Manager
+.build/
+.swiftpm/
+
+# CocoaPods / Carthage (not used, kept for convention)
+Pods/
+Carthage/Build/
+
+# Misc
+*.moved-aside
+*.swp
+*.tmp
+xcuserdata/
